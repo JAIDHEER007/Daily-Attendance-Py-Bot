@@ -37,3 +37,6 @@ pip install -r requirements.txt
 - <a href="https://stackoverflow.com/questions/11065421/command-prompt-wont-change-directory-to-another-drive#:~:text=you%20can%20use%20/d-,cd%20/d%20d%3A%5CDocs%5CJava,-For%20more%20help">Directory switching to other Drive using CMD</a>
 - <a href="https://medium.com/@andikarachman/pandas-tutorial-modifying-dataframes-e30cdf208f92">Modifying Dataframes</a>
 ---
+**Output Screenshots:**
+![](Original.JPG)
+![](Output.jpg)
