@@ -17,3 +17,8 @@ pip install selenium
 pip install pandas
 pip install beautifulsoup4
 pip install tabulate
+```
+#### or
+```
+pip install -r requirements.txt
+```
