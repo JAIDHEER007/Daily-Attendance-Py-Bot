@@ -9,4 +9,11 @@
 - Run it using Daily Attendance.bat or using Command Prompt
 
 ---
+**Instructions to install required libraries:**
 
+- You must have pip installed. It comes along with Python.
+```
+pip install selenium
+pip install pandas
+pip install beautifulsoup4
+pip install tabulate
