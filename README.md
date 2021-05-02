@@ -23,6 +23,18 @@ pip install tabulate
 pip install -r requirements.txt
 ```
 ---
+**Configuring Daily Attendance.bat File:**
+
+You have to configure Daily Attendance.bat file before using it.
+
+- Copy the folder path where both test1.py and chromedriver.exe files were located.
+- Open Daily Attendance.bat file and replace the ---Path to python folder--- placeholder with copied path.
+- Now you are good to go!
+- You can copy the Daily Attendance.bat to anywhere on your computer and can instantly invoke the script.
+### Follow the below video.
+[![Configuring Daily Attendance.bat](https://img.youtube.com/vi/jabMz1B6AOc/maxresdefault.jpg)](https://youtu.be/jabMz1B6AOc)
+
+---
 **Useful Links:**
 
 - <a href="https://www.programiz.com/python-programming/datetime/current-datetime">Getting Current Date in Python</a>
