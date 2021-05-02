@@ -48,6 +48,8 @@ You have to configure Daily Attendance.bat file before using it.
 - <a href="https://www.tutorialspoint.com/how-to-handle-frames-in-selenium-with-python">Handling HTML frames using Selenium</a>
 - <a href="https://stackoverflow.com/questions/11065421/command-prompt-wont-change-directory-to-another-drive#:~:text=you%20can%20use%20/d-,cd%20/d%20d%3A%5CDocs%5CJava,-For%20more%20help">Directory switching to other Drive using CMD</a>
 - <a href="https://medium.com/@andikarachman/pandas-tutorial-modifying-dataframes-e30cdf208f92">Modifying Dataframes</a>
+- <a href="https://stackoverflow.com/questions/8688846/resize-command-prompt-through-commands#:~:text=command%20prompt%2C%20eg.-,mode%20con%3Acols%3D80%20lines%3D100,-will%20make%20the">Resizing Batch Script window</a>
+- <a href="https://www.tutorialspoint.com/batch_script/batch_script_title.htm">Adding title to Batch Script</a>
 ---
 **Output Screenshots:**
 ![](Original.JPG)
