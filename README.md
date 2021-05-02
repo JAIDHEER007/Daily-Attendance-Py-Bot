@@ -52,5 +52,6 @@ You have to configure Daily Attendance.bat file before using it.
 - <a href="https://www.tutorialspoint.com/batch_script/batch_script_title.htm">Adding title to Batch Script</a>
 ---
 **Output Screenshots:**
+
 ![](Original.JPG)
 ![](Output.jpg)
