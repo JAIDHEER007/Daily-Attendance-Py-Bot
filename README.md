@@ -55,3 +55,8 @@ You have to configure Daily Attendance.bat file before using it.
 
 ![](Original.JPG)
 ![](Output.jpg)
+---
+
+### Output Video:
+
+[![Output Video](https://img.youtube.com/vi/jppqAZgaF8I/maxresdefault.jpg)](https://youtu.be/jppqAZgaF8I)
